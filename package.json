@@ -1,0 +1,23 @@
+{
+  "name": "porfolio-nag",
+  "version": "0.0.1",
+  "description": "A webcomponent that shows information about an employee in the form of a profile card.",
+  "main": "ProfileInfo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beautifulnature/profile-info.git"
+  },
+  "keywords": [
+    "webcomponent",
+    "profile-info-card"
+  ],
+  "author": "nagaraju",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/beautifulnature/profile-info/issues"
+  },
+  "homepage": "https://github.com/beautifulnature/profile-info#readme"
+}
